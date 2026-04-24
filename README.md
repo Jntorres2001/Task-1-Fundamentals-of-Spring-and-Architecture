@@ -20,7 +20,7 @@ This project demonstrates key concepts of the Spring Boot framework, including D
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Jntorres2001/Task-1-Fundamentals-of-Spring-and-Architecture.git
    ```
 
 2. Open the project in IntelliJ IDEA
